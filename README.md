@@ -1,4 +1,4 @@
-# Vietnam Administrative units with postcode
+# Vietnam administrative units with postcode
 
 ## Data source
 * [From VIETNAM's GENERAL STATISTICS](https://www.gso.gov.vn/)
