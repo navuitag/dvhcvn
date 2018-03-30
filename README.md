@@ -25,3 +25,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Use
+
+### Get all the Vietnam administartive units
+
+* URL: https://us-central1-atestagent-5857a.cloudfunctions.net/bananabotHttp
+* Method: GET
+
+### Get a Vietnam administrative province unit
+
+* URL: https://us-central1-atestagent-5857a.cloudfunctions.net/bananabotHttp
+* Method: POST
+* Data: {"postcode": 100000}
